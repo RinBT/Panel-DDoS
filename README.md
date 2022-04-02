@@ -17,3 +17,7 @@ Power:
 - cd Panel-DDoS
 - sudo python3 installer.py
 - sudo python3 kim.py
+
+
+User: Free
+Pass: Free
