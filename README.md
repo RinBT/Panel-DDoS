@@ -10,7 +10,7 @@ Power:
 
 ![image](https://user-images.githubusercontent.com/95573884/161365626-4b035506-52e3-47f2-ad9f-7f1053f417cc.png)
 
-![image](https://user-images.githubusercontent.com/95573884/161364580-93b90942-1a18-486c-8034-6e258459e279.png)
+![image](https://user-images.githubusercontent.com/95573884/161365661-79281405-e5da-49ac-81f3-2a24b68007dc.png)
 
 - How to use:
 - git clone https://github.com/kimpro12/Panel-DDoS.git
