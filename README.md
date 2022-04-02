@@ -12,4 +12,8 @@ Power:
 
 ![image](https://user-images.githubusercontent.com/95573884/161364580-93b90942-1a18-486c-8034-6e258459e279.png)
 
-How to use: 
+- How to use:
+- git clone https://github.com/kimpro12/Panel-DDoS.git
+- cd Panel-DDoS
+- sudo python3 installer.py
+- sudo python3 kim.py
