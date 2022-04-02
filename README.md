@@ -17,7 +17,11 @@ Power:
 - cd Panel-DDoS
 - sudo python3 installer.py
 - sudo python3 kim.py
+- sudo chmod -R a+rwx /home/ubuntu/Panel-DDoS
 
 
-User: Free
-Pass: Free
+- User: Free
+- Pass: Free
+
+
+- When python3 installer.py if it have some error ignore it
